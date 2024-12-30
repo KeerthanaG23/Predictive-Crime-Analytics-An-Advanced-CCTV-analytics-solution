@@ -1,0 +1,13 @@
+matplotlib
+opencv-python
+torch
+pillow
+scikit-learn 
+tensorboardx
+visdom
+einops
+# might be available already in .venv\lib\site-packages 
+tqdm
+numpy
+
+# https://arxiv.org/pdf/2211.15098
